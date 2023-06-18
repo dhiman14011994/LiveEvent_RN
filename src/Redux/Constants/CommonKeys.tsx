@@ -1,0 +1,6 @@
+export const commonKeys = {
+  API_REQUESTED: 'API_REQUESTED',
+  API_START: 'API_START',
+  API_FAILED: 'API_FAILED',
+  API_SUCCESS: 'API_SUCCESS',
+};

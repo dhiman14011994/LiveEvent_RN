@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158827048732",
+    "firebase_url": "https://ax-chat-41461.firebaseio.com",
+    "project_id": "ax-chat-41461",
+    "storage_bucket": "ax-chat-41461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158827048732:android:ac211337d3e828541654d9",
+        "android_client_info": {
+          "package_name": "com.acceleratedxs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158827048732-sc4u35f29o5aatjne9o4l0ultluq48u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acceleratedxs",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "158827048732-r567dv4noii0c2fnouef0l206qvo4vb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1VAI-leIoZI_5Nxu1xYLa8u83mOJoZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158827048732-r567dv4noii0c2fnouef0l206qvo4vb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158827048732-4mnv7jg6kg8e36r5uubknvhp73v003sf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dfa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
